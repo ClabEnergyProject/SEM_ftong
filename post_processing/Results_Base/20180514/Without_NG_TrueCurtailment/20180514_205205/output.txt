@@ -1,0 +1,47 @@
+
+------------------------------------------------------------------------
+solutions
+------------------------------------------------------------------------
+
+time elapsed: 69.9 seconds
+status: optimal
+number of constraints: 8776
+studied time periods (which hour?): 306816 315576
+Total system cost($): 269796918241
+Average system cost ($/kWh): 0.069
+Generation (relative to demand) : natural_gas, wind, solar, nuclear,  [ 0.          0.55154086  0.46919912  0.        ]
+Other generation-equivalent (relative to demand), storage in, storage out, curtailment, unmet demand : [ 0.18665978  0.20739975  0.19463911  0.        ]
+Capacity of power generation (GW): natural_gas, wind, solar, nuclear,  [    0.           866.09428712  1220.06675384     0.        ]
+Capacity of energy storage (GWh): 24321.9908659
+Contribution to system cost ($/kWh):  natural_gas, wind, solar, nuclear,   energy storage, unmet demand, [ 0.          0.02639892  0.03718815  0.          0.0049423   0.        ]
+Fixed cost contribution ($/kWh): natural_gas, wind, solar, nuclear,  energy storage, [ 0.          0.02639892  0.03718815  0.          0.0049423 ]
+Variable cost contribution ($/kWh): natural_gas, wind, solar, nuclear,  energy storage, [  0.00000000e+00   5.51540856e-11   4.69199119e-11   0.00000000e+00
+   3.94059529e-11]
+Capital cost contribution ($/kWh): natural_gas, wind, solar, nuclear,  energy storage, [ 0.          0.02639892  0.03718815  0.          0.0049423 ]
+Fuel cost contribution ($/kWh): natural_gas, wind, solar, nuclear,  energy storage, [ 0.  0.  0.  0.  0.]
+Fixed O&M cost contribution ($/kWh): natural_gas, wind, solar, nuclear,  energy storage, [ 0.  0.  0.  0.  0.]
+Variable O&M cost contribution ($/kWh): natural_gas, wind, solar, nuclear,  energy storage, [  0.00000000e+00   5.51540856e-11   4.69199119e-11   0.00000000e+00
+   3.94059529e-11]
+Investment cost (billion $): natural_gas, wind, solar, nuclear,  energy storage, [    0.          1299.14143068  1830.10013075     0.           243.21990866]
+Capacity factor: natural_gas, wind, solar, nuclear,  energy storage, [  0.           0.28619934   0.17283421   0.          30.21425152]
+
+------------------------------------------------------------------------
+used_assumptions
+------------------------------------------------------------------------
+
+Input folder: D:\M\WORK/Input_Data/
+Output folder: D:\M\WORK/Results/20180514_205205
+Power generation, capital cost ($/kW): [  1.00000000e+10   1.50000000e+03   1.50000000e+03   1.00000000e+10]
+Energy storage, capital cost ($/kWh): 10.0
+Capital charge rate (power generation, storage) 0.08 0.08
+Power generation, fixed operation cost ($/kW): [ 0.  0.  0.  0.]
+Energy storage, fixed operation cost ($/kWh): 0
+Power generation, fuel cost ($/kWh): [ 0.03101958  0.          0.          0.0125    ]
+Power generation, efficiency: [ 0.55  1.    1.    0.32]
+Power generation, variable O&M cost ($/kWh): [  2.00000000e-03   1.00000000e-10   1.00000000e-10   2.30000000e-03]
+Energy storage, variable O&M cost ($/kWh): 1e-10
+Power generation, fixed O&M cost ($/kWh): [ 0.  0.  0.  0.]
+Energy storage, fixed O&M cost ($/kWh): 0
+Unmet demand cost ($/kWh): 10
+Energy storage one-way efficiency: 0.948683298051
+Curtailment cost ($/kWh): 0

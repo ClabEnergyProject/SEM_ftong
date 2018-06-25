@@ -1,0 +1,6 @@
+Four scenarios, run on May 14, 2018
+
+Storage round trip efficiency = 0.9
+
+Fake curtailment	With natural gas
+Fake curtailment	Without natural gas
